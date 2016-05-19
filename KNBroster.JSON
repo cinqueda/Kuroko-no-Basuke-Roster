@@ -356,11 +356,161 @@
         }
       ],
       "imgURL": "http://vignette1.wikia.nocookie.net/kurokonobasuke/images/7/7b/Teppei_Kiyoshi_anime.png/revision/latest/scale-to-width-down/270?cb=20121123201149",
-      "pos": "C",
+      "pos": "SF",
       "Height": 170,
       "weight": 67,
       "born": { "year": 1998 },
       "name": "Koganei Shinji"
+    },
+        {
+      "tid": 2,
+      "ratings": [
+        {
+          "hgt": 82,
+          "stre": 95,
+          "spd": 70,
+          "jmp": 90,
+          "endu": 80,
+          "ins": 80,
+          "dnk": 80,
+          "ft": 70,
+          "fg": 50,
+          "tp": 20,
+          "blk": 90,
+          "stl": 30,
+          "drb": 60,
+          "pss": 30,
+          "reb": 90,
+          "pot": 80,
+          "skills": [ "Di","Po" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/d/d2/Taisuke_Otsubo_anime.png/revision/latest/scale-to-width-down/270?cb=20121105202520",
+      "pos": "C",
+      "Height": 198,
+      "weight": 98,
+      "born": { "year": 1997 },
+      "name": "Ōtsubo Taisuke"
+    },
+            {
+      "tid": 2,
+      "ratings": [
+        {
+          "hgt": 69,
+          "stre": 70,
+          "spd": 70,
+          "jmp": 70,
+          "endu": 70,
+          "ins": 60,
+          "dnk": 30,
+          "ft": 80,
+          "fg": 70,
+          "tp": 60,
+          "blk": 30,
+          "stl": 30,
+          "drb": 90,
+          "pss": 90,
+          "reb": 30,
+          "pot": 65,
+          "skills": [ "B","Ps" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/d/d2/Taisuke_Otsubo_anime.png/revision/latest/scale-to-width-down/270?cb=20121105202520",
+      "pos": "C",
+      "Height": 176,
+      "weight": 65,
+      "born": { "year": 1999 },
+      "name": "Takao Kazunari"
+    },
+                {
+      "tid": 2,
+      "ratings": [
+        {
+          "hgt": 69,
+          "stre": 70,
+          "spd": 70,
+          "jmp": 70,
+          "endu": 70,
+          "ins": 60,
+          "dnk": 30,
+          "ft": 80,
+          "fg": 70,
+          "tp": 60,
+          "blk": 30,
+          "stl": 30,
+          "drb": 90,
+          "pss": 90,
+          "reb": 30,
+          "pot": 65,
+          "skills": [ "B","Ps" ]
+        }
+      ],
+      "imgURL": "http://vignette1.wikia.nocookie.net/kurokonobasuke/images/f/f5/Takao2.png/revision/latest/scale-to-width-down/270?cb=20121107211156",
+      "pos": "PG",
+      "Height": 176,
+      "weight": 65,
+      "born": { "year": 1999 },
+      "name": "Takao Kazunari"
+    },
+                    {
+      "tid": 2,
+      "ratings": [
+        {
+          "hgt": 75,
+          "stre": 75,
+          "spd": 85,
+          "jmp": 75,
+          "endu": 80,
+          "ins": 70,
+          "dnk": 60,
+          "ft": 80,
+          "fg": 70,
+          "tp": 50,
+          "blk": 50,
+          "stl": 50,
+          "drb": 90,
+          "pss": 90,
+          "reb": 60,
+          "pot": 70,
+          "skills": [ "B"]
+        }
+      ],
+      "imgURL": "http://vignette2.wikia.nocookie.net/kurokonobasuke/images/7/73/Miyaji.png/revision/latest/scale-to-width-down/270?cb=20121107212234",
+      "pos": "SF",
+      "Height": 191,
+      "weight": 77,
+      "born": { "year": 1997 },
+      "name": "Miyaji Kiyoshi"
+    },
+                        {
+      "tid": 2,
+      "ratings": [
+        {
+          "hgt": 75,
+          "stre": 75,
+          "spd": 85,
+          "jmp": 75,
+          "endu": 80,
+          "ins": 70,
+          "dnk": 60,
+          "ft": 80,
+          "fg": 70,
+          "tp": 50,
+          "blk": 50,
+          "stl": 50,
+          "drb": 90,
+          "pss": 90,
+          "reb": 60,
+          "pot": 70,
+          "skills": [ "B"]
+        }
+      ],
+      "imgURL": "http://vignette2.wikia.nocookie.net/kurokonobasuke/images/7/73/Miyaji.png/revision/latest/scale-to-width-down/270?cb=20121107212234",
+      "pos": "SF",
+      "Height": 191,
+      "weight": 77,
+      "born": { "year": 1997 },
+      "name": "Kimura"
     },
 
 
