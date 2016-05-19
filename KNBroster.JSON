@@ -1,0 +1,424 @@
+﻿{
+  "startingSeason": 2015,
+  "players": [
+    {
+      "tid": 0,
+      "ratings": [
+        {
+          "hgt": 90,
+          "stre": 90,
+          "spd": 90,
+          "jmp": 90,
+          "endu": 90,
+          "ins": 90,
+          "dnk": 90,
+          "ft": 90,
+          "fg": 90,
+          "tp": 90,
+          "blk": 90,
+          "stl": 90,
+          "drb": 90,
+          "pss": 90,
+          "reb": 90,
+          "pot": 100,
+          "skills": [ "A", "Dp", "3", "B" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/0/02/Kise_mugshot.png/revision/latest?cb=20140330113256",
+      "pos": "SF",
+      "Height": 189,
+      "weight": 77,
+      "born": { "year": 1999 },
+      "name": "Kise Ryōta"
+    },
+    {
+      "tid": 0,
+      "ratings": [
+        {
+          "hgt": 70,
+          "stre": 50,
+          "spd": 90,
+          "jmp": 50,
+          "endu": 90,
+          "ins": 60,
+          "dnk": 20,
+          "ft": 85,
+          "fg": 80,
+          "tp": 80,
+          "blk": 30,
+          "stl": 70,
+          "drb": 90,
+          "pss": 90,
+          "reb": 40,
+          "pot": 70,
+          "skills": [ "Ps", "A", "B", "3" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/0/01/Yukio_Kasamatsu_anime.png/revision/latest/scale-to-width-down/270?cb=20121028181330",
+      "pos": "PG",
+      "Height": 178,
+      "weight": 66,
+      "born": { "year": 1997 },
+      "name": " Kasamatsu Yukio"
+    },
+    {
+      "tid": 0,
+      "ratings": [
+        {
+          "hgt": 71,
+          "stre": 40,
+          "spd": 40,
+          "jmp": 50,
+          "endu": 60,
+          "ins": 50,
+          "dnk": 40,
+          "ft": 90,
+          "fg": 80,
+          "tp": 88,
+          "blk": 30,
+          "stl": 30,
+          "drb": 50,
+          "pss": 60,
+          "reb": 40,
+          "pot": 60,
+          "skills": [ "3" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/b/bd/Moriyama.png/revision/latest/scale-to-width-down/270?cb=20140226153948",
+      "pos": "SG",
+      "Height": 181,
+      "weight": 67,
+      "born": { "year": 1997 },
+      "name": "Moriyama Yoshitaka"
+    },
+    {
+      "tid": 0,
+      "ratings": [
+        {
+          "hgt": 75,
+          "stre": 75,
+          "spd": 40,
+          "jmp": 85,
+          "endu": 99,
+          "ins": 60,
+          "dnk": 40,
+          "ft": 90,
+          "fg": 80,
+          "tp": 88,
+          "blk": 30,
+          "stl": 30,
+          "drb": 50,
+          "pss": 60,
+          "reb": 99,
+          "pot": 80,
+          "skills": [ "R", "Di" ]
+        }
+      ],
+      "imgURL": "http://vignette1.wikia.nocookie.net/kurokonobasuke/images/b/ba/Hayakawa_mugshot.png/revision/latest/scale-to-width-down/203?cb=20121202172106&format=webp",
+      "pos": "PF",
+      "Height": 185,
+      "weight": 77,
+      "born": { "year": 1999 },
+      "name": "Hayakawa Mistsuhiro"
+    },
+    {
+      "tid": 0,
+      "ratings": [
+        {
+          "hgt": 80,
+          "stre": 80,
+          "spd": 60,
+          "jmp": 70,
+          "endu": 70,
+          "ins": 80,
+          "dnk": 70,
+          "ft": 90,
+          "fg": 80,
+          "tp": 88,
+          "blk": 30,
+          "stl": 30,
+          "drb": 50,
+          "pss": 60,
+          "reb": 85,
+          "pot": 75,
+          "skills": [ "Di" ]
+        }
+      ],
+      "imgURL": "http://vignette1.wikia.nocookie.net/kurokonobasuke/images/e/ea/Kobori_mugshot.png/revision/latest/scale-to-width-down/203?cb=20121202172115&format=webp",
+      "pos": "C",
+      "Height": 192,
+      "weight": 74,
+      "born": { "year": 1997 },
+      "name": "Kobori Kōji"
+    },
+    {
+      "tid": 0,
+      "ratings": [
+        {
+          "hgt": 69,
+          "stre": 50,
+          "spd": 72,
+          "jmp": 60,
+          "endu": 86,
+          "ins": 60,
+          "dnk": 50,
+          "ft": 80,
+          "fg": 60,
+          "tp": 70,
+          "blk": 60,
+          "stl": 60,
+          "drb": 50,
+          "pss": 50,
+          "reb": 60,
+          "pot": 70,
+          "skills": [ "Dp" ]
+        }
+      ],
+      "imgURL": "http://vignette2.wikia.nocookie.net/kurokonobasuke/images/3/3f/Nakamura_Shinya.png/revision/latest/scale-to-width-down/270?cb=20150307220005",
+      "pos": "SG",
+      "Height": 181,
+      "weight": 68,
+      "born": { "year": 1998 },
+      "name": "Nakamura Shinya"
+    },
+
+    {
+      "tid": 1,
+      "ratings": [
+        {
+          "hgt": 60,
+          "stre": 30,
+          "spd": 30,
+          "jmp": 30,
+          "endu": 50,
+          "ins": 40,
+          "dnk": 20,
+          "ft": 50,
+          "fg": 60,
+          "tp": 20,
+          "blk": 20,
+          "stl": 99,
+          "drb": 50,
+          "pss": 99,
+          "reb": 30,
+          "pot": 60,
+          "skills": [ "Ps" ]
+        }
+      ],
+      "imgURL": "http://vignette2.wikia.nocookie.net/kurokonobasuke/images/9/9b/Tetsuya_Kuroko_anime.png/revision/latest/scale-to-width-down/270?cb=20121028182106",
+      "pos": "PG",
+      "Height": 168,
+      "weight": 57,
+      "born": { "year": 1999 },
+      "name": "Kuroko Tetsuya"
+    },
+    {
+      "tid": 1,
+      "ratings": [
+        {
+          "hgt": 90,
+          "stre": 90,
+          "spd": 95,
+          "jmp": 100,
+          "endu": 80,
+          "ins": 70,
+          "dnk": 95,
+          "ft": 70,
+          "fg": 80,
+          "tp": 50,
+          "blk": 80,
+          "stl": 50,
+          "drb": 70,
+          "pss": 30,
+          "reb": 80,
+          "pot": 95,
+          "skills": [ "A", "Di", "Dp", "R", "Po" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/f/fe/Taiga_Kagami_anime.png/revision/latest/scale-to-width-down/270?cb=20121010184818",
+      "pos": "PF",
+      "Height": 190,
+      "weight": 82,
+      "born": { "year": 1999 },
+      "name": "Kagami Taiga"
+    },
+    {
+      "tid": 1,
+      "ratings": [
+        {
+          "hgt": 70,
+          "stre": 50,
+          "spd": 65,
+          "jmp": 40,
+          "endu": 75,
+          "ins": 60,
+          "dnk": 30,
+          "ft": 90,
+          "fg": 78,
+          "tp": 84,
+          "blk": 40,
+          "stl": 50,
+          "drb": 60,
+          "pss": 67,
+          "reb": 49,
+          "pot": 75,
+          "skills": [ "3" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/d/d6/Junpei_Hyuga_anime.png/revision/latest/scale-to-width-down/270?cb=20121106213428",
+      "pos": "SG",
+      "Height": 178,
+      "weight": 68,
+      "born": { "year": 1998 },
+      "name": "Hyūga Junpei"
+    },
+    {
+      "tid": 1,
+      "ratings": [
+        {
+          "hgt": 65,
+          "stre": 50,
+          "spd": 60,
+          "jmp": 50,
+          "endu": 70,
+          "ins": 50,
+          "dnk": 35,
+          "ft": 80,
+          "fg": 70,
+          "tp": 70,
+          "blk": 30,
+          "stl": 90,
+          "drb": 80,
+          "pss": 75,
+          "reb": 40,
+          "pot": 70,
+          "skills": [ "B", "Ps" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/6/6a/Shun_Izuki_anime.png/revision/latest/scale-to-width-down/270?cb=20121105194957",
+      "pos": "PG",
+      "Height": 174,
+      "weight": 64,
+      "born": { "year": 1998 },
+      "name": "Izuki Shun"
+    },
+    {
+      "tid": 1,
+      "ratings": [
+        {
+          "hgt": 75,
+          "stre": 70,
+          "spd": 60,
+          "jmp": 70,
+          "endu": 80,
+          "ins": 70,
+          "dnk": 60,
+          "ft": 70,
+          "fg": 60,
+          "tp": 30,
+          "blk": 30,
+          "stl": 90,
+          "drb": 80,
+          "pss": 75,
+          "reb": 40,
+          "pot": 70,
+          "skills": [ "Po", "Di" ]
+        }
+      ],
+      "imgURL": "http://vignette3.wikia.nocookie.net/kurokonobasuke/images/4/4a/Rinnosuke_Mitobe_anime.png/revision/latest/scale-to-width-down/270?cb=20121028182540",
+      "pos": "C",
+      "Height": 186,
+      "weight": 78,
+      "born": { "year": 1998 },
+      "name": "Mitobe Rinnosuke"
+    },
+    {
+      "tid": 1,
+      "ratings": [
+        {
+          "hgt": 68,
+          "stre": 70,
+          "spd": 80,
+          "jmp": 70,
+          "endu": 80,
+          "ins": 60,
+          "dnk": 40,
+          "ft": 70,
+          "fg": 60,
+          "tp": 60,
+          "blk": 40,
+          "stl": 40,
+          "drb": 60,
+          "pss": 60,
+          "reb": 60,
+          "pot": 80,
+          "skills": [ "Dp" ]
+        }
+      ],
+      "imgURL": "http://vignette1.wikia.nocookie.net/kurokonobasuke/images/7/7b/Teppei_Kiyoshi_anime.png/revision/latest/scale-to-width-down/270?cb=20121123201149",
+      "pos": "C",
+      "Height": 170,
+      "weight": 67,
+      "born": { "year": 1998 },
+      "name": "Koganei Shinji"
+    },
+
+
+  ],
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 0,
+      "region": "Kaijō",
+      "name": "High",
+      "abbrev": "KAI",
+      "pop": 1
+    },
+    {
+      "tid": 1,
+      "cid": 1,
+      "did": 0,
+      "region": "Seirin",
+      "name": "High",
+      "abbrev": "SEI",
+      "pop": 1
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "region": "Shūtoku",
+      "name": "High",
+      "abbrev": "SHŪ",
+      "pop": 1
+    },
+    {
+      "tid": 3,
+      "cid": 1,
+      "did": 0,
+      "region": "Tōō",
+      "name": "Academy",
+      "abbrev": "TŌŌ",
+      "pop": 1
+    },
+    {
+      "tid": 4,
+      "cid": 3,
+      "did": 0,
+      "region": "Yōsen",
+      "name": "High",
+      "abbrev": "YŌS",
+      "pop": 1
+    },
+    {
+      "tid": 4,
+      "cid": 4,
+      "did": 0,
+      "region": "Rakuzan",
+      "name": "High",
+      "abbrev": "Rak",
+      "pop": 1
+    }
+  ]
+}
