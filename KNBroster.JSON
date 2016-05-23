@@ -486,31 +486,31 @@
       "tid": 2,
       "ratings": [
         {
-          "hgt": 75,
-          "stre": 75,
-          "spd": 85,
-          "jmp": 75,
-          "endu": 80,
+          "hgt": 70,
+          "stre": 80,
+          "spd": 80,
+          "jmp": 60,
+          "endu": 100,
           "ins": 70,
-          "dnk": 60,
-          "ft": 80,
-          "fg": 70,
-          "tp": 50,
-          "blk": 50,
-          "stl": 50,
-          "drb": 90,
-          "pss": 90,
-          "reb": 60,
-          "pot": 70,
-          "skills": [ "B"]
+          "dnk": 30,
+          "ft": 60,
+          "fg": 60,
+          "tp": 20,
+          "blk": 60,
+          "stl": 30,
+          "drb": 40,
+          "pss": 50,
+          "reb": 70,
+          "pot": 65,
+          "skills": [ ]
         }
       ],
       "imgURL": "http://vignette2.wikia.nocookie.net/kurokonobasuke/images/7/73/Miyaji.png/revision/latest/scale-to-width-down/270?cb=20121107212234",
-      "pos": "SF",
-      "Height": 191,
-      "weight": 77,
+      "pos": "PF",
+      "Height": 187,
+      "weight": 80,
       "born": { "year": 1997 },
-      "name": "Kimura"
+      "name": "Kimura Shinsuke"
     },
 
 
